@@ -24,6 +24,11 @@ In this exercise, you will:
 1. Work with branches to experiment safely.
 1. Learn about Git collaboration concepts.
 
+### New Features
+
+- 🎮 **Enhanced Game**: The Stack Overflown puzzle game now includes 10 different error patterns to match, including Stack Overflow, Deadlock, and Buffer Overflow!
+- 📊 **Skills Tracker**: Use `SKILLS_TRACKER.md` to track your Git learning progress and check off skills as you master them.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
